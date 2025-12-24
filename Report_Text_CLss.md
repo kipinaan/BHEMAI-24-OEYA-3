@@ -7,7 +7,7 @@
 
 ### Описание датасета
 1. Ссылка: https://www.kaggle.com/datasets/arhamrumi/amazon-product-reviews
-  - Датасет содержит отзывы покупателей о различных продуктах Amazon
+   - Датасет содержит отзывы покупателей о различных продуктах Amazon
 2. Исходный размер: 5684540
    - Размер, с которым работали: 50000
 3. Колонки: 'Id', 'ProductId', 'UserId', 'ProfileName', 'HelpfulnessNumerator', 'HelpfulnessDenominator', 'Score', 'Time', 'Summary', 'Text'
