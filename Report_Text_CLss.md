@@ -3,7 +3,7 @@
 1. Кипина Анна Владимировна
 2. Лобачев Василий Иванович
 #### Google colab
-Ссылка: https://colab.research.google.com/drive/134COkXOT674ANKki0pBrye0sneLeABXH?hl=ru#scrollTo=AM8YAgaKD274
+Ссылка: https://colab.research.google.com/drive/134COkXOT674ANKki0pBrye0sneLeABXH?hl=ru#scrollTo=FJbS7qAtrky1
 
 ### Описание датасета
 1. Ссылка: https://www.kaggle.com/datasets/arhamrumi/amazon-product-reviews
